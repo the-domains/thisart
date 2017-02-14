@@ -1,0 +1,26 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: this.art
+layout_spectrum: 0.8822865835390985
+typography_spectrum: 0.4837859943509102
+color:
+  brandStrength: 0.79445172380656
+  lightness: 0.04590962268412113
+  saturation: 0.7674037860706449
+  rhythmicContrast: 0.14483625045977533
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+content: []
+title: this.art
+description: ''
+url: 'https://grid.this.art/'
+github: true
