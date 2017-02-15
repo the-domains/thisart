@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[this.art]]></title>
+        <description><![CDATA[this.art]]></description>
+        <link>http://grid.this.art/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Feb 2017 19:46:17 GMT</lastBuildDate>
+        <atom:link href="http://grid.this.art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Word 7]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7ba14cc07734e02af38cccf79a847924/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F436550fa-36a3-46f2-8c19-2fa7b1cccbab.jpg&x=0&y=0" title="Word 7" alt="My great aunt&apos;s &quot;favorite version of Microsoft Word&quot; complete with penciled in notes and highlighted passages.">]]></description>
+            <link>http://grid.this.art/word-7/index.html</link>
+            <guid isPermaLink="false">21a1abcd-4d81-4979-9987-6a25bde11b55</guid>
+            <pubDate>Wed, 15 Feb 2017 19:46:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
